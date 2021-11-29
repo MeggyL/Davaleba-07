@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-size: 100%;
+}
+. container {
+	max-width: 1920px;
+	width: 100%;
+	margin: 0 auto;
+	background-color: #FFFFFF;
+}
+. image {
+	display: inline-block;
+}
+.text {
+	display: inline-block;
+}
+header {
+	width: 1920px;
+	height: 308px;
+	background-color: blue;
+}
+. title {
+	width:  184px;
+	height: 38px;
+	color: #FFFFFF;
+	padding: 70px 1496px 200px 240px;
+}
